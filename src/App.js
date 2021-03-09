@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import styled from '@emotion/styled';
-import imagen from './criptomonedas.png';
+import imagen from './imagenes/criptomonedas.png';
 import axios from 'axios';
 import Formulario from './components/Formulario';
 import Cotizacion from './components/Cotizacion';
